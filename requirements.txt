@@ -123,7 +123,7 @@ hyperlink==21.0.0
 idna==3.8
 imageio==2.35.1
 incremental==24.7.2
-inference==0.22.0
+inference==0.23.0
 inference-cli==0.18.1
 inference-sdk==0.9.17
 iniconfig==2.0.0
